@@ -3,8 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=00ced1&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud%20|%20Full%20Stack&animation=twinkling"
 alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=081D26&width=435&lines=passionate+about+leveraging+cloud+technologies;Tech+enthusiast+passionate+about+full+stack+development!!" alt="Typing SVG" /> 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=13&pause=1000&color=081D26&width=435&lines=passionate+about++cloud+technologies!!;Tech+enthusiast+about+full+stack+" alt="Typing SVG" />
 </div>
 
 <div align="center">
