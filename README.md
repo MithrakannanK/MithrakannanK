@@ -8,15 +8,16 @@ alt="Header" />
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=MithrakannanK&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/MithrakannanK?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/MithrakannanK?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
 <div align="center">
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **Cloud-Technologies**, and to ethusiase **AI** working with **modern tech tools**.  
+**failures are stepping stone for success**
+**Passionate learner and developer** who loves building **full-stack web apps**, exploring **Cloud-Technologies**, and to ethusiase **AI** working with **modern tech tools**.  
  Currently diving deep in understanding of **DSA**, while also sharpening my **C++,Java and,oops-concept** fundamentals for problem solving and algorithmic thinking.love turning ideas into 
  impactful prototypes that empower people and improve lives.
 
