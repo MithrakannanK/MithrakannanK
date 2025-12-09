@@ -17,7 +17,8 @@ alt="Header" />
 <div align="center">
 
  **Passionate learner and developer** who loves building **full-stack web apps**, exploring **Cloud-Technologies**, and to ethusiase **AI** working with **modern tech tools**.  
- Currently diving deep in understanding of **DSA**, while also sharpening my **C++,Java** fundamentals for problem solving and algorithmic thinking.
+ Currently diving deep in understanding of **DSA**, while also sharpening my **C++,Java and,oops-concept** fundamentals for problem solving and algorithmic thinking.love turning ideas into 
+ impactful prototypes that empower people and improve lives.
 
 </div>  
 
@@ -131,10 +132,10 @@ alt="Header" />
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 300+ | Knight Rank |
-| **CodeChef** | 567 | 1601 |
-| **CodeForces** | 136 | 969 |
-| **GeeksForGeeks** | 65+ | - |
+| **LeetCode** | 22 | 1398 |
+| **CodeChef** | 642 | 1046 |
+| **CodeForces** | 2| 413 |
+| **GeeksForGeeks** | 5 | - |
 
 ###  **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
