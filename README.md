@@ -17,6 +17,7 @@ alt="Header" />
 <div align="center">
 
 **failures are stepping stone for success**
+
 **Passionate learner and developer** who loves building **full-stack web apps**, exploring **Cloud-Technologies**, and to ethusiase **AI** working with **modern tech tools**.  
  Currently diving deep in understanding of **DSA**, while also sharpening my **C++,Java and,oops-concept** fundamentals for problem solving and algorithmic thinking.love turning ideas into 
  impactful prototypes that empower people and improve lives.
