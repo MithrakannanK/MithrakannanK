@@ -34,8 +34,7 @@ alt="Header" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    </td>
+     </td>
   </tr>
 
   <tr>
@@ -64,79 +63,15 @@ alt="Header" />
 
 <br>
 
-## Featured Projects  
-
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
-
-  <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
-    <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
-    </td>
-    <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>VULNERABILITY SCANNER</b><br><i>Real-time Web Application Security Scanner</i></td>
-    <td>
-      A collaborative project to build a real-time vulnerability scanner for web applications with comprehensive reporting and dashboard features.
-    </td>
-    <td>
-      React.js • Tailwind CSS • GitHub
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>DEVCONNECT</b><br><i>Developer Social Network & Collaboration Hub</i></td>
-    <td>
-      A specialized social networking and collaboration platform designed exclusively for software developers, unifying professional networking, knowledge exchange, and peer collaboration.
-    </td>
-    <td>
-      React.js • Node.js • MongoDB • WebSockets
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
-    <td>
-      A comprehensive expense tracker application built with Maven, featuring SQL database integration for efficient financial tracking and money management.
-    </td>
-    <td>
-      Java • Maven • MySQL • Spring Boot
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
-    </td>
-  </tr>
-</table>
-
-
 ##  DSA & Problem Solving Achievements
 
 ### ** Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 22 | 1398 |
+| **LeetCode** | 23 | 1398 |
 | **CodeChef** | 642 | 1046 |
-| **CodeForces** | 2| 413 |
+| **CodeForces** | 2| 629 |
 | **GeeksForGeeks** | 5 | - |
 |**Hackerank**|13|-|
 
@@ -145,7 +80,7 @@ alt="Header" />
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabariyuhendh&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mithrakannan&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithrakannanK&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&border_color=8B5CF6" alt="Top Languages" />
 
 </div>
@@ -171,42 +106,29 @@ alt="Header" />
 </picture>
 
 </div>  
-
----
-
-##  GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MithrakannanK&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ##  Currently Learning  
-- Advanced React patterns and state management
+- JAVA programming (core java& object-oriented concepsts)
 - Backend integration with Firebase & MongoDB
-- Advanced Data Structures & Algorithms
-- Problem Solving techniques and optimization
-- Full-Stack Development best practices
-
----
-
+- Data Structures & Algorithms
+- Full-Stack Development practices
+## Focus Area
+- Developing scalable and maintainable web applicatons
+- Hands learning through real time projects
+- Improving problem solving and debugging skills
 ##  Connect with Me  
 <p align="left">
   <a href=https://github.com/MithrakannanK><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href=https://www.linkedin.com/in/mithra-kannan-30487a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="kmithra746@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
 
 <div align="center">
 
-###  Fun Fact
-*"In the vast universe of code, every problem is just a star waiting to be discovered!"*
+##fact
+"BELEIVE IN YOU THAN UNIVERSE"
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [MITHRA](https://github.com/Mithrakannan)**
 
 </div>
