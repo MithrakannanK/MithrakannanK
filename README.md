@@ -17,10 +17,10 @@ alt="Header" />
 <div align="center">
 
 **failures are stepping stone for success**
-
+Iam curious and driven learner with a strong interest in building practical **Web Apllicatins**
+Currently focused on strengthening my foundation in **JAVA-Object-oriented-programming**
 **Passionate learner and developer** who loves building **full-stack web apps**, exploring **Cloud-Technologies**, and to ethusiase **AI** working with **modern tech tools**.  
- Currently diving deep in understanding of **DSA**, while also sharpening my **C++,Java and,oops-concept** fundamentals for problem solving and algorithmic thinking.love turning ideas into 
- impactful prototypes that empower people and improve lives.
+ Currently diving deep in understanding of **DSA**, while also sharpening my **C,C++** fundamentals for problem solving and algorithmic thinking.love turning ideas into  impactful prototypes that empower people and improve lives.
 
 </div>  
 
@@ -106,15 +106,17 @@ alt="Header" />
 </picture>
 
 </div>  
+
 ##  Currently Learning  
 - JAVA programming (core java& object-oriented concepsts)
-- Backend integration with Firebase & MongoDB
 - Data Structures & Algorithms
 - Full-Stack Development practices
+
 ## Focus Area
 - Developing scalable and maintainable web applicatons
 - Hands learning through real time projects
 - Improving problem solving and debugging skills
+
 ##  Connect with Me  
 <p align="left">
   <a href=https://github.com/MithrakannanK><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
