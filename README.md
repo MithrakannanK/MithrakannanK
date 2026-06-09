@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=00ced1&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud%20%7C%20DevOps%20%7C%20Full%20Stack%20%7C%20Machine%20Learning&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=FFB6A3&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud%20%7C%20DevOps%20%7C%20Full%20Stack%20%7C%20Machine%20Learning&animation=twinkling" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=Cloud+Enthusiast;Full+Stack+Developer;Machine+Learning+Enthusiast;Exploring+Cloud+Architectures;DevOps+Engineer+in+Progress;AWS+Learner" alt="Typing SVG" />+
 </div>
@@ -118,32 +118,31 @@ const mithra = {
 
 <td width="50%">
 
-### ☁️ Serverless File Storage - AWS S3
+![AWS Project](https://img.shields.io/badge/AWS_Project-00CED1?style=for-the-badge)
+
+### ☁️ [Serverless File Storage - AWS S3](https://github.com/MithrakannanK/SERVERLESS_FILE_STORAGE-AWS-S3)
 
 *Serverless Cloud Storage Solution*
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A serverless file storage platform built using AWS S3 for secure file upload, storage, and retrieval.
-
-🔗 **Repository:**  
-https://github.com/MithrakannanK/SERVERLESS_FILE_STORAGE-AWS-S3
+A cloud-based file storage system built using AWS S3 for secure file upload, storage, and retrieval.
 
 </td>
 
 <td width="50%">
 
-### 🧠 Urban Mind AI
+![AI Project](https://img.shields.io/badge/Smart_Platform-8B5CF6?style=for-the-badge)
+
+### 🧠 [Urban Mind AI](https://github.com/MithrakannanK/UrbanMindAI-smart-intelligence-platform)
 
 *Smart Intelligence Platform*
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-An AI-powered platform focused on intelligent assistance, smart recommendations, and user-centric experiences.
-
-🔗 **Repository:**  
-https://github.com/MithrakannanK/UrbanMindAI-smart-intelligence-platform
+A smart intelligence platform designed to provide user-focused digital solutions with modern web technologies.
 
 </td>
 
@@ -165,11 +164,10 @@ https://github.com/MithrakannanK/UrbanMindAI-smart-intelligence-platform
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 23 | 1398 |
-| **CodeChef** | 642 | 1046 |
-| **CodeForces** | 2| 629 |
-| **GeeksForGeeks** | 5 | - |
-|**Hackerank**|13|-|
+| **LeetCode** | 120+| 1588 |
+| **CodeChef** | 800+ | 1353 |
+| **CodeForces** | 2| 1075 |
+
 
 
 ##  GitHub Analytics
@@ -203,15 +201,22 @@ https://github.com/MithrakannanK/UrbanMindAI-smart-intelligence-platform
 
 </div>  
 
-##  Currently Learning  
-- JAVA programming (core java& object-oriented concepsts)
-- Data Structures & Algorithms
-- Full-Stack Development practices
 
-## Focus Area
-- Developing scalable and maintainable web applicatons
-- Hands learning through real time projects
-- Improving problem solving and debugging skills
+## 🌱 Currently Learning
+
+- ☁️ AWS Cloud Computing
+- ⚙️ DevOps Engineering
+- 🐳 Docker & Containerization
+- 🏗️ Infrastructure as Code (Terraform)
+- 🔄 CI/CD Pipelines
+- ☕ Advanced Java & Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🤖 Machine Learning Fundamentals
+
+
+## 🎯 Focus Areas
+
+☁️ Cloud Computing • ⚙️ DevOps Engineering • 🏗️ Cloud Architecture • 🔄 Automation & CI/CD
 
 ##  Connect with Me  
 <p align="left">
