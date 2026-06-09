@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=00ced1&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud& Devops Engineer%20|%20Full%20Stack developer |Machine learning%20|&animation=twinkling"
-alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=00ced1&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud%20%7C%20DevOps%20%7C%20Full%20Stack%20%7C%20Machine%20Learning&animation=twinkling" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=Cloud+Enthusiast;Full+Stack+Developer;Machine+Learning+Enthusiast;Exploring+Cloud+Architectures;DevOps+Engineer+in+Progress;AWS+Learner" alt="Typing SVG" />+
 </div>
