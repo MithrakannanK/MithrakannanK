@@ -13,20 +13,45 @@
 
 </div>
 
-<div align="center">
-    const mithra = {
+
+## 👨‍💻 About Me
+
+const mithra = {
     pronouns: "He | Him",
-      code: ["Java", "Python", "SQL", "C", "C++"],
-       askMeAbout:
-       "Cloud Computing","DevOps"
-        "Full Stack Development","Object-Oriented Programming"]
-         Technologies: { cloud: ["AWS"],
-                        devops: [ "Linux", "Git", "GitHub", "Docker","Terraform", "CI/CD" ],
-                        database: ["MySQL"]  },
-        currentFocus:  "Cloud & DevOps Engineering",
-        funFact: "Turning bugs into features since day one 😄"
+
+    code: ["Java", "Python", "SQL", "C", "C++"],
+
+    askMeAbout: [
+        "Cloud Computing",
+        "DevOps",
+        "Full Stack Development",
+        "Object-Oriented Programming"
+    ],
+
+    technologies: {
+        cloud: ["AWS"],
+        devops: [
+            "Linux",
+            "Git",
+            "GitHub",
+            "Docker",
+            "Terraform",
+            "CI/CD"
+        ],
+        database: ["MySQL"]
+    },
+
+    currentFocus: "Cloud & DevOps Engineering",
+
+    funFact:
+        "Turning bugs into features since day one 😄"
 };
-</div>
+
+
+
+
+
+
 
 
 
@@ -37,6 +62,9 @@
 </a>
 
 </div>
+
+
+
 
 
 
