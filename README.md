@@ -13,53 +13,80 @@ alt="Header" />
 ![GitHub User's stars](https://img.shields.io/github/stars/MithrakannanK?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
+```javascript
+<div align="center">
+const mithra = {
+    pronouns: "He | Him",
+
+    code: ["Java", "Python", "SQL", "C", "C++"],
+
+    askMeAbout: [
+        "Cloud Computing",
+        "DevOps",
+        "Full Stack Development",
+        "Object-Oriented Programming"
+    ],
+
+    technologies: {
+        cloud: ["AWS"],
+
+        devops: [
+            "Linux",
+            "Git",
+            "GitHub",
+            "Docker",
+            "Terraform",
+            "CI/CD"
+        ],
+
+        database: ["MySQL"]
+    },
+
+    currentFocus:
+        "Cloud & DevOps Engineering",
+
+    funFact:
+        "Turning bugs into features since day one 😄"
+};
+
+
+</div>
+
+
+
+
+ 
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-**failures are stepping stone for success**
-Iam curious and driven learner with a strong interest in building practical **Web Apllicatins**
-Currently focused on strengthening my foundation in **JAVA-Object-oriented-programming**
-**Passionate learner and developer** who loves building **full-stack web apps**, exploring **Cloud-Technologies**, and to ethusiase **AI** working with **modern tech tools**.  
- Currently diving deep in understanding of **DSA**, while also sharpening my **C,C++** fundamentals for problem solving and algorithmic thinking.love turning ideas into  impactful prototypes that empower people and improve lives.
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
 
-</div>  
+### 🌐 Frameworks &  fullstack 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Maven](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
 
-##  Technical Skills  
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<table align="center" width="100%">
-  <tr>
-    <th align="left">Programming Languages</th>
-    <td>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-     </td>
-  </tr>
-
-  <tr>
-    <th align="left">Frontend Development</th>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Backend & Frameworks</th>
-    <td>
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Databases & Tools</th>
-    <td>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
+</div>
 
 <br>
 
