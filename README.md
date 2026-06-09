@@ -16,15 +16,28 @@
 <div align="center">
     const mithra = {
     pronouns: "He | Him",
-      code: ["Java", "Python", "SQL", "C", "C++"], askMeAbout:"Cloud Computing",
-        "DevOps", "Full Stack Development","Object-Oriented Programming"
-    ],technologies: {   cloud: ["AWS"],
+      code: ["Java", "Python", "SQL", "C", "C++"],
+       askMeAbout:
+       "Cloud Computing","DevOps"
+        "Full Stack Development","Object-Oriented Programming"]
+         Technologies: { cloud: ["AWS"],
                         devops: [ "Linux", "Git", "GitHub", "Docker","Terraform", "CI/CD" ],
                         database: ["MySQL"]  },
         currentFocus:  "Cloud & DevOps Engineering",
         funFact: "Turning bugs into features since day one 😄"
 };
 </div>
+
+
+
+<div align="center">
+
+<a href="https://mithrakannank.github.io/PORTFOLIO_MITHRA/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-00CED1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
 
 
 
