@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=00ced1&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud%20|%20Full%20Stack&animation=twinkling"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=251&color=00ced1&text=MithraKannan%20K&fontAlign=50&fontAlignY=42&desc=Cloud& Devops Engineer%20|%20Full%20Stack developer |Machine learning%20|&animation=twinkling"
 alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=13&pause=1000&color=081D26&width=435&lines=passionate+about++cloud+technologies!!;Tech+enthusiast+about+full+stack+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=Cloud+Enthusiast;Full+Stack+Developer;Machine+Learning+Enthusiast;Exploring+Cloud+Architectures;DevOps+Engineer+in+Progress;AWS+Learner" alt="Typing SVG" />+
 </div>
 
 <div align="center">
@@ -13,43 +13,18 @@ alt="Header" />
 ![GitHub User's stars](https://img.shields.io/github/stars/MithrakannanK?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
-```javascript
+
 <div align="center">
-const mithra = {
+    const mithra = {
     pronouns: "He | Him",
-
-    code: ["Java", "Python", "SQL", "C", "C++"],
-
-    askMeAbout: [
-        "Cloud Computing",
-        "DevOps",
-        "Full Stack Development",
-        "Object-Oriented Programming"
-    ],
-
-    technologies: {
-        cloud: ["AWS"],
-
-        devops: [
-            "Linux",
-            "Git",
-            "GitHub",
-            "Docker",
-            "Terraform",
-            "CI/CD"
-        ],
-
-        database: ["MySQL"]
-    },
-
-    currentFocus:
-        "Cloud & DevOps Engineering",
-
-    funFact:
-        "Turning bugs into features since day one 😄"
+      code: ["Java", "Python", "SQL", "C", "C++"], askMeAbout:"Cloud Computing",
+        "DevOps", "Full Stack Development","Object-Oriented Programming"
+    ],technologies: {   cloud: ["AWS"],
+                        devops: [ "Linux", "Git", "GitHub", "Docker","Terraform", "CI/CD" ],
+                        database: ["MySQL"]  },
+        currentFocus:  "Cloud & DevOps Engineering",
+        funFact: "Turning bugs into features since day one 😄"
 };
-
-
 </div>
 
 
