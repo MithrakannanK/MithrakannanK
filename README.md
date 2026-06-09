@@ -80,6 +80,7 @@ const mithra = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Typescript](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🌐 Frameworks &  fullstack 
@@ -104,6 +105,59 @@ const mithra = {
 </div>
 
 <br>
+
+
+
+
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### ☁️ Serverless File Storage - AWS S3
+
+*Serverless Cloud Storage Solution*
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+A serverless file storage platform built using AWS S3 for secure file upload, storage, and retrieval.
+
+🔗 **Repository:**  
+https://github.com/MithrakannanK/SERVERLESS_FILE_STORAGE-AWS-S3
+
+</td>
+
+<td width="50%">
+
+### 🧠 Urban Mind AI
+
+*Smart Intelligence Platform*
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+An AI-powered platform focused on intelligent assistance, smart recommendations, and user-centric experiences.
+
+🔗 **Repository:**  
+https://github.com/MithrakannanK/UrbanMindAI-smart-intelligence-platform
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
 
 ##  DSA & Problem Solving Achievements
 
